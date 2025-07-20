@@ -1,6 +1,6 @@
-# Where Have the Kaczmarz Iterates gone?
+# Where Have All the Kaczmarz Iterates Gone?
 
-This repository is the official implementation of the numerical results presented in The Paper _Where Have the Kaczmarz Iterates gone?_ 
+This repository is the official implementation of the numerical results presented in The Paper _Where Have All the Kaczmarz Iterates Gone?_ 
 
 ## Requirements
 We conducted the experiments using python 3.9.2, pandas 1.2.3, numpy 1.20.1, and scipy 1.8.0. The numerical results can be easily reproduced by running the provided Jupyter notebooks available in the repository. The Jupyter notebooks can be run using any editor, such as VS Code, Anaconda, and others.
