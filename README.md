@@ -11,7 +11,7 @@ The real datasets used in the experiments are from [LIBSVM](https://www.csie.ntu
 Run the notebook `comparing_bounds_noisy.ipynb` to reproduce experiments that compare the theoretical bounds for the Randomized Kaczmarz algorithm applied to noisy linear systems.
 
 ### Empirical Validation of Theorem 3.2
-Run the notebook `evaluate_theorem_3-2.ipynb` to reproduce experiments that evaluate Theorem 3.2
+Run the notebook `evaluating_theorem_3-2.ipynb` to reproduce experiments that evaluate Theorem 3.2
 
 ### Limiting Ball of Final RK Iterates
 Run the notebook `limiting_balls_2D.ipynb` to generate visualizations of the limiting balls of the final RK iterates.
