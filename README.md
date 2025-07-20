@@ -8,7 +8,7 @@ All experiments were conducted using Python 3.9.2 with the following dependencie
 The real datasets used in the experiments are from [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/) and are included in this repository as CSV files.
 
 ### Comparing Bounds for Noisy Linear Systems
-Run the notebook 'comparing_bounds_noisy.ipynb' to reproduce experiments that compare the theoretical bounds for RK applied to noisy linear systems.
+Run the notebook `comparing_bounds_noisy.ipynb` to reproduce experiments that compare the theoretical bounds for RK applied to noisy linear systems.
 
 ### Comparing Bounds on Real-World Data
 Run the notebook 'comparing_bounds_real_data.ipynb' to reproduce experiments that compare the bounds for RK applied to real-world data.
