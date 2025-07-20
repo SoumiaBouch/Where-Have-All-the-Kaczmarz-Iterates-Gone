@@ -7,11 +7,14 @@ All experiments were conducted using Python 3.9.2 with the following dependencie
 
 The real datasets used in the experiments are from [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/) and are included in this repository as CSV files.
 
-### Comparing Bounds for noise-free systems.
-To run the experiments comparing the bounds in the noise-free case, please run the notebook comparing_bounds_noiseless.ipynb.
+### Comparing Bounds for Noisy Linear Systems
+Run the notebook 'comparing_bounds_noisy.ipynb' to reproduce experiments that compare the theoretical bounds for RK applied to noisy linear systems.
 
-### Comparing Bounds for noisy systems.
-To run the experiments comparing the bounds in the noisy case, please run the notebook comparing_bounds_noisy.ipynb.
+### Comparing Bounds on Real-World Data
+Run the notebook 'comparing_bounds_real_data.ipynb' to reproduce experiments that compare the bounds for RK applied to real-world data.
 
-### Limiting ball of final RK iterates.
-To visualize the limiting balls of final RK iterates, please run the nootbooke limitting_balls_2D.ipynb.
+### Empirical Validation of Theorem 3.2
+Run the notebook 'comparing_bounds_real_data.ipynb' to reproduce experiments that evaluate Theorem 3.2
+
+### Limiting Ball of Final RK Iterates
+Run the notebook 'limiting_balls_2D.ipynb' to generate visualizations of the limiting balls of the final Randomized Kaczmarz iterates.
